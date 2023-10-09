@@ -5,7 +5,6 @@ public class Cat {
     private int appetite;
     boolean full;
 
-
     public Cat(String name, int appetite, boolean full) {
         this.name = name;
         this.appetite = appetite;
